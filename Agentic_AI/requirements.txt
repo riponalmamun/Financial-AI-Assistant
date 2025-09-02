@@ -1,0 +1,12 @@
+phi>=0.6.7
+phidata
+python-dotenv
+yfinance
+packaging
+duckduckgo-search
+fastapi
+uvicorn
+groq
+transformers
+torch
+huggingface-hub
