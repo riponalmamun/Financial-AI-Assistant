@@ -116,4 +116,12 @@ pip install pyngrok
 ngrok http 7777
 ```
 
+<img width="1918" height="911" alt="3" src="https://github.com/user-attachments/assets/c16eacae-8cfd-4432-9025-6a7c5edc8af9" />
+<img width="1916" height="910" alt="4" src="https://github.com/user-attachments/assets/bee52374-dde3-473b-a78f-c6c45d7674f2" />
+<img width="1627" height="612" alt="1" src="https://github.com/user-attachments/assets/3d329f09-1615-4603-bc75-cb8e6c95a995" />
+
+
+
+
+
 
